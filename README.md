@@ -8,7 +8,7 @@ This project is built using **React**(vite), **TypeScript**, and **Material UI**
    ```bash
    git clone <repository-url>
 2. Navigate to the project directory:
-   cd <project-folder>
+   cd kanban-app
 3. Install all required dependencies:
    npm install
 4. To start the development server:
